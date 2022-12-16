@@ -13,7 +13,7 @@
   
   
   <properties>
-	<wcanspring.version>4.3.20.RELEASE</wcanspring.version>
+	<wcanspring.version>5.2.20.RELEASE</wcanspring.version>
 </properties>
 
 <dependencyManagement>
